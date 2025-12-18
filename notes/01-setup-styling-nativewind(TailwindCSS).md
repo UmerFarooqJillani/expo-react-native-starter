@@ -127,4 +127,6 @@ export default function App() {
 
 See the setup Project [click here](https://github.com/UmerFarooqJillani/rn-movie-app)
 
+More details about setup, Customization, etc. Visit: [nativewind.dev/docs](https://www.nativewind.dev/docs)
+
 ---
